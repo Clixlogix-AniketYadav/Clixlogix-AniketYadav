@@ -12,7 +12,7 @@
 </h1>
 <b> About me:</b>
 </br>
-Hi, I'm Aniket having an experience of 7+ month in frontend webdev,
+Hi, I'm Aniket having an experience of 3+ Years in frontend webdev,
 </br>
 </br>
 
